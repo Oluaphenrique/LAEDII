@@ -4,7 +4,7 @@
 
 int main(){
     
-    int i;
+    int i;//
     printf("CELSIUS \tFarenheit\n"); 
     
     for(i = 30; i <= 50; i++){
